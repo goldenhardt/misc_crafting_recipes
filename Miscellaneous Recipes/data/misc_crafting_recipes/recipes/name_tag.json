@@ -1,0 +1,23 @@
+    {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+            " 23",
+            " 12",
+            "1  "
+        ],
+        "key": {
+            "1": {
+                "item": "minecraft:paper"
+            },
+            "2": {
+                "item": "minecraft:string"
+            },
+			"3": {
+				"item": "minecraft:iron_ingot"
+			}
+        },
+        "result": {
+            "item": "minecraft:saddle",
+            "count": 1
+        }
+    }

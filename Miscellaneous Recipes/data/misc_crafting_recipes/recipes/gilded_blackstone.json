@@ -1,0 +1,20 @@
+    {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+            " 2 ",
+            "212",
+            " 2 "
+        ],
+        "key": {
+            "1": {
+                "item": "minecraft:blackstone"
+            },
+            "2": {
+                "item": "minecraft:gold_nugget"
+            }
+        },
+        "result": {
+            "item": "minecraft:gilded_blackstone",
+            "count": 1
+        }
+    }
